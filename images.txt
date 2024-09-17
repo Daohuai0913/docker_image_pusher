@@ -1,5 +1,1 @@
-nginx
-alpine
-xiaoyaliu/alist
-xhofe/alist:latest
-
+shinsenter/s6-ubuntu:20.04
